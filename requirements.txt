@@ -90,7 +90,6 @@ PyMySQL==0.9.3
 pyparsing==2.4.7
 PyPDF2==1.26.0
 pyTelegramBotAPI==3.6.7
-pywin32==227
 query-string==2019.4.13
 reportlab==3.5.42
 request==2019.4.13
