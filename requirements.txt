@@ -90,12 +90,11 @@ PyMySQL==0.9.3
 pyparsing==2.4.7
 PyPDF2==1.26.0
 pyTelegramBotAPI==3.6.7
-python-dateutil==2.8.1
 pywin32==227
 query-string==2019.4.13
 reportlab==3.5.42
 request==2019.4.13
-requests==2.22.0
+requests==2.20.0
 requests-toolbelt==0.8.0
 rutetider==1.0.2
 schedule==0.6.0
