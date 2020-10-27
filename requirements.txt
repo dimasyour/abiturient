@@ -26,7 +26,7 @@ Click==7.0
 colorama==0.4.3
 configparser==4.0.2
 crayons==0.3.0
-cryptography==2.9
+cryptography==3.2
 cycler==0.10.0
 DateTime==4.3
 DAWG-Python==0.7.2
